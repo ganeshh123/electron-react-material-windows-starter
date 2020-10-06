@@ -13,7 +13,7 @@
     "typeface-roboto": "^0.0.75"
   },
   "deprecated": false,
-  "description": "A minimal React starter for Electron with Material-UI.",
+  "description": "A minimal Electron Boilerplate with React and Material UI, designed for Windows 10.",
   "devDependencies": {
     "@babel/preset-react": "^7.10.4",
     "electron": "^9.1.1",
